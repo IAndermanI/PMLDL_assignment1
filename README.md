@@ -10,4 +10,4 @@ git clone https://github.com/IAndermanI/PMLDL_assignment1.git
 docker-compose up --build
 ```
 
-3. Enjoy this application and give me 5 points
+3. Enjoy this application and give me max points for assignment 😊
